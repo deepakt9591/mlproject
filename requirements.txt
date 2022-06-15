@@ -1,0 +1,7 @@
+django==3.2.5
+python==2.10.5
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
